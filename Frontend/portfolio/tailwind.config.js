@@ -6,6 +6,7 @@ export default {
     extend: {
       colors: {
         zinc: colors.zinc,
+        cyan: colors.cyan,
       },
     },
   },

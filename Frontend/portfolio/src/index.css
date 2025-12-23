@@ -12,11 +12,10 @@ html, body, #root {
 
 
 body {
-    @apply bg-zinc-100 text-zinc-950 antialiased;
+    @apply bg-cyan-950 text-zinc-100 antialiased;
 }
 
 
-/* Scrollbar (optional, tech style) */
 ::-webkit-scrollbar {
     width: 8px;
 }

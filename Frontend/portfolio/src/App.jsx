@@ -10,7 +10,7 @@ import { LanguageProvider } from "./context/LanguageContext";
 export default function App() {
     return (
         <LanguageProvider>
-            <div className="min-h-screen bg-zinc-950 text-zinc-100">
+            <div className="min-h-screen bg-cyan-900 text-zinc-100">
                 <Header />
                 <Routes>
                     <Route path="/" element={<Home />} />
